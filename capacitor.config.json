@@ -1,0 +1,8 @@
+{
+  "appId": "com.btcu.ganeshmodak",
+  "appName": "Ganesh Chaturthi - Modak Collector",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
